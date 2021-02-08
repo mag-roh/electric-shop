@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="about_us.css"?> 
+<!DOCTYPE note SYSTEM "about.dtd">
+<main>
+<heading>About Us</heading>
+<html xmlns="http://www.w3.org/1999/xhtml"><div class="about-us"></div></html>
+<html xmlns="http://www.w3.org/1999/xhtml" style="padding-left:30px;padding-right:50px;;">
+<about>We are the leading electronics store with 70% dominance and we take good care of customers.
+	Customers are our priority and that we provide quality products.
+	We sell products with best in class after sales services and we gurantee full customer satisfaction after the usage of the products bought from our store.
+</about>
+</html>
+</main>

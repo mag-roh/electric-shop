@@ -1,0 +1,4 @@
+<!ELEMENT main (heading,about)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT about (#PCDATA)>
+
